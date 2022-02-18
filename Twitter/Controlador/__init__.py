@@ -1,8 +1,8 @@
 import pymysql
 
-DB_HOST = '3.231.20.132'
+DB_HOST = ''
 DB_USER = 'apdif'
-DB_PASSWORD = 'K3XyRwLjPtkui6qJ'
+DB_PASSWORD = ''
 DB_NAME = 'apdif'
 
 
